@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Proxi
+# 👋 Hey, I'm Sid
 
 ## 🚀 About Me
 Mechatronics Engineer turned **GenAI Developer** building production-ready AI systems. Have worked upon Robot Operating System and Mechanical Designing software Solidworks while actively transitioning into Generative AI engineering with a focus on **RAG architectures**, **multi-agent systems**, and **LLM applications**.
