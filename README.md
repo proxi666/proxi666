@@ -6,7 +6,7 @@ Mechatronics Engineer turned **GenAI Developer** building production-ready AI sy
 🔭 **Currently Building:** Advanced RAG systems with LangGraph, FastAPI-based GenAI microservices  
 🌱 **Learning:** Prompt Engineering, LLM Fine-tuning, Production AI System Design  
 💼 **Open to:** GenAI Engineer roles, AI/ML collaborations, Remote opportunities  
-📍 **Location:** Ahmedabad, India
+📍 **Location:** India
 
 ## 💻 Tech Stack
 
