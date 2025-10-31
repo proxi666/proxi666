@@ -22,15 +22,10 @@ Mechatronics Engineer turned **GenAI Developer** building production-ready AI sy
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 
-## 🎯 What I'm Working On
-
-- Building  GenAI projects 
-- Exploring advanced RAG architectures and metacognitive systems
-- Contributing to open-source AI/ML projects
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([your-linkedin](https://www.linkedin.com/in/siddhant-diwaker-0706a321a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/siddhant-diwaker-0706a321a/]))
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:siddhantdiwaker.sd@gmail.com)
 
 ---
