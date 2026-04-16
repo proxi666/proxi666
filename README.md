@@ -1,32 +1,25 @@
-# 👋 Hey, I'm Sid
+# Siddhant Diwaker
 
-## 🚀 About Me
-Mechatronics Engineer turned **GenAI Developer** building production-ready AI systems. Have worked upon Robot Operating System and Mechanical Designing software Solidworks while actively transitioning into Generative AI engineering with a focus on **RAG architectures**, **multi-agent systems**, and **LLM applications**.
+GenAI and ML engineer building retrieval systems, agentic workflows, and applied robotics tooling.
 
-🔭 **Currently Building:** Advanced RAG systems with LangGraph, FastAPI-based GenAI microservices  
-🌱 **Learning:** Prompt Engineering, LLM Fine-tuning, Production AI System Design  
-💼 **Open to:** GenAI Engineer roles, AI/ML collaborations, Remote opportunities  
-📍 **Location:** India
+## Focus
+- Retrieval-augmented generation and multi-agent systems
+- FastAPI backends and streaming AI applications
+- LLM fine-tuning, evaluation, and deployment
+- Robotics, ROS, computer vision, and automation
 
-## 💻 Tech Stack
+## Featured Projects
+- [Quantized-VLA0](https://github.com/proxi666/Quantized-VLA0) - Quantization study for VLA-0 covering reliability, runtime, and reproducible benchmark artifacts.
+- [WhisperUbuntu](https://github.com/proxi666/WhisperUbuntu) - Local push-to-talk voice input for Ubuntu coding workflows using faster-whisper.
+- [Perplexity-2.0](https://github.com/proxi666/Perplexity-2.0) - LangGraph-based research assistant with streaming UI and live web search.
+- [DeepThinking-AgenticRAG](https://github.com/proxi666/DeepThinking-AgenticRAG) - Multi-agent RAG system with iterative reasoning and hybrid retrieval.
+- [train-GPT2-from-scratch](https://github.com/proxi666/train-GPT2-from-scratch) - GPT-2 implementation in PyTorch with manual transformer components.
+- [llama-robotics-command-parser](https://github.com/proxi666/llama-robotics-command-parser) - Fine-tuned Llama pipeline for translating robotics commands into structured JSON.
 
-**GenAI & LLMs**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
-![LangGraph](https://img.shields.io/badge/-LangGraph-121212?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## Stack
+`Python` `PyTorch` `LangGraph` `LangChain` `FastAPI` `Docker` `ROS2` `OpenCV`
 
-**Robotics & Automation**  
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-diwaker-0706a321a/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:siddhantdiwaker.sd@gmail.com)
-
----
-💡 *"Transitioning from mechatronics to GenAI, one RAG system at a time"*
+## Connect
+- LinkedIn: [siddhant-diwaker](https://www.linkedin.com/in/siddhant-diwaker-0706a321a/)
+- Email: [siddhantdiwaker.sd@gmail.com](mailto:siddhantdiwaker.sd@gmail.com)
+- Open to GenAI / ML engineer roles and research-oriented collaborations.
