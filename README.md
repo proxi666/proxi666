@@ -20,4 +20,4 @@ GenAI and ML engineer building retrieval systems, agentic workflows, and applied
 ## Connect
 - LinkedIn: [siddhant-diwaker](https://www.linkedin.com/in/siddhant-diwaker-0706a321a/)
 - Email: [siddhantdiwaker.sd@gmail.com](mailto:siddhantdiwaker.sd@gmail.com)
-- Open to GenAI / ML engineer roles and research-oriented collaborations.
+- Open for research-oriented collaborations on robotics and world models.
